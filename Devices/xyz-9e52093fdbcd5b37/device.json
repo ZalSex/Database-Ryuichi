@@ -5,12 +5,12 @@
     "sdk": 30,
     "manufacturer": "TECNO MOBILE LIMITED",
     "model": "TECNO LE7",
-    "battery": 72,
+    "battery": 77,
     "charging": true,
     "sim": "Smartfren4G"
   },
-  "lastSeen": "2026-06-22T17:00:46.388Z",
-  "connectedAt": "2026-06-22T16:55:21.910Z",
+  "lastSeen": "2026-06-22T17:06:18.403Z",
+  "connectedAt": "2026-06-22T17:00:49.402Z",
   "status": {
     "flashlight": false,
     "cameraActive": false,
