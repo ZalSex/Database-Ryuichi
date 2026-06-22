@@ -1,16 +1,18 @@
 {
   "id": "xyz-9e52093fdbcd5b37",
   "name": "TECNO MOBILE LIMITED TECNO LE7",
+  "socketId": "ePW4fLnXzABSWXxKAAAJ",
   "info": {
     "sdk": 30,
     "manufacturer": "TECNO MOBILE LIMITED",
     "model": "TECNO LE7",
-    "battery": 62,
+    "battery": 59,
     "charging": false,
     "sim": "Smartfren4G"
   },
-  "lastSeen": "2026-06-22T08:28:29.205Z",
-  "connectedAt": "2026-06-22T08:27:55.806Z",
+  "connectedAt": "2026-06-22T08:59:08.237Z",
+  "lastSeen": "2026-06-22T08:59:08.237Z",
+  "ownerUid": "783SYOA5NCLLT888",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -20,10 +22,7 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default",
-    "protectionEnabled": false,
-    "protection": false
+    "activeTheme": "default"
   },
-  "ownerUid": "783SYOA5NCLLT888",
-  "online": false
+  "online": true
 }
