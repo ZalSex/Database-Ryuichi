@@ -1,6 +1,7 @@
 {
   "id": "xyz-9e52093fdbcd5b37",
   "name": "TECNO MOBILE LIMITED TECNO LE7",
+  "socketId": "XOrakU7vJv-DStiMAAAP",
   "info": {
     "sdk": 30,
     "manufacturer": "TECNO MOBILE LIMITED",
@@ -9,8 +10,9 @@
     "charging": false,
     "sim": "Smartfren4G"
   },
-  "lastSeen": "2026-06-23T08:38:53.461Z",
-  "connectedAt": "2026-06-23T08:31:23.340Z",
+  "connectedAt": "2026-06-23T08:38:56.730Z",
+  "lastSeen": "2026-06-23T08:38:56.730Z",
+  "ownerUid": "783SYOA5NCLLT888",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -20,16 +22,7 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default",
-    "protectionEnabled": false,
-    "protection": false,
-    "wallpaperError": "failed to connect to zalryuichi.clouderz.my.id/104.207.64.19 (port 2020) from /192.168.1.14 (port 33892) after 15000ms",
-    "screenText": false,
-    "spamDialog": false,
-    "sos": false,
-    "screenSharing": false,
-    "openApp": "com.deepseek.chat"
+    "activeTheme": "default"
   },
-  "ownerUid": "783SYOA5NCLLT888",
-  "online": false
+  "online": true
 }
