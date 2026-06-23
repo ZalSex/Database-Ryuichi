@@ -1,0 +1,11 @@
+[
+  {
+    "ts": "2026-06-23T08:31:04.956Z",
+    "towers": {
+      "operator": "Smartfren4G",
+      "simOp": "Smartfren4G",
+      "netType": "LTE (4G)",
+      "cells": []
+    }
+  }
+]
