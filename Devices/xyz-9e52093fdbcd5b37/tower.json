@@ -105,5 +105,41 @@
         }
       ]
     }
+  },
+  {
+    "ts": "2026-06-28T15:21:14.193Z",
+    "towers": {
+      "operator": "Smartfren4G",
+      "simOp": "Smartfren4G",
+      "netType": "LTE (4G)",
+      "cells": [
+        {
+          "type": "LTE",
+          "mcc": "510",
+          "mnc": "11",
+          "ci": 72731141,
+          "pci": 280,
+          "tac": 28704,
+          "earfcn": 1325,
+          "rsrp": -95,
+          "rsrq": -11,
+          "dbm": -95,
+          "registered": true
+        },
+        {
+          "type": "LTE",
+          "mcc": "510",
+          "mnc": "11",
+          "ci": 72731144,
+          "pci": 280,
+          "tac": 28704,
+          "earfcn": 325,
+          "rsrp": -101,
+          "rsrq": -17,
+          "dbm": -101,
+          "registered": true
+        }
+      ]
+    }
   }
 ]
