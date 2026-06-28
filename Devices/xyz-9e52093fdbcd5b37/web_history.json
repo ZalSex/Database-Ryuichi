@@ -14,5 +14,16 @@
   {
     "ts": "2026-06-28T15:20:45.760Z",
     "history": []
+  },
+  {
+    "ts": "2026-06-28T18:58:11.299Z",
+    "history": [
+      {
+        "url": "https://zal.ryuichi-site.workers.dev/register",
+        "title": "",
+        "pkg": "com.android.chrome",
+        "time": 1782672854697
+      }
+    ]
   }
 ]
