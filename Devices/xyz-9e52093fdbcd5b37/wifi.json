@@ -93,5 +93,24 @@
   {
     "ts": "2026-06-29T08:24:05.975Z",
     "list": []
+  },
+  {
+    "ts": "2026-07-09T15:04:57.929Z",
+    "list": [
+      {
+        "ssid": "Zal7Sex 5G",
+        "bssid": "64:85:05:3f:73:74",
+        "level": -46,
+        "security": "WPA2",
+        "frequency": 5765
+      },
+      {
+        "ssid": "<Hidden>",
+        "bssid": "66:85:05:4f:73:74",
+        "level": -46,
+        "security": "WPA2",
+        "frequency": 5765
+      }
+    ]
   }
 ]
