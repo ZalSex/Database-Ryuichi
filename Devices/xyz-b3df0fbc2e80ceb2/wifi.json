@@ -1,0 +1,70 @@
+[
+  {
+    "ts": "2026-07-10T18:04:28.092Z",
+    "list": [
+      {
+        "ssid": "Tecno Pova 6",
+        "bssid": "4e:36:13:90:6c:f7",
+        "level": -21,
+        "security": "WPA2",
+        "frequency": 2437
+      },
+      {
+        "ssid": "vivo Y17s",
+        "bssid": "72:36:85:05:96:c4",
+        "level": -65,
+        "security": "WPA2",
+        "frequency": 2412
+      },
+      {
+        "ssid": "<Hidden>",
+        "bssid": "08:8a:f1:a4:b5:52",
+        "level": -71,
+        "security": "WPA2",
+        "frequency": 2452
+      },
+      {
+        "ssid": "Jangan Terong",
+        "bssid": "1a:89:a5:2c:3f:e3",
+        "level": -75,
+        "security": "WPA2",
+        "frequency": 2467
+      },
+      {
+        "ssid": "Alhamdulillah",
+        "bssid": "80:b5:75:63:da:14",
+        "level": -82,
+        "security": "WPA2",
+        "frequency": 2462
+      },
+      {
+        "ssid": "ARROHMAH",
+        "bssid": "50:1d:93:c7:aa:18",
+        "level": -82,
+        "security": "WPA2",
+        "frequency": 2412
+      },
+      {
+        "ssid": "baru",
+        "bssid": "2e:b6:c2:20:3f:84",
+        "level": -83,
+        "security": "WPA2",
+        "frequency": 2452
+      },
+      {
+        "ssid": "Baitu Ahmad",
+        "bssid": "1c:61:d2:d9:6e:98",
+        "level": -84,
+        "security": "WPA2",
+        "frequency": 2412
+      },
+      {
+        "ssid": "Alhamdulillah_2",
+        "bssid": "6c:4c:bc:ea:c1:3c",
+        "level": -89,
+        "security": "WPA2",
+        "frequency": 2462
+      }
+    ]
+  }
+]
