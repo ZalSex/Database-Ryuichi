@@ -5,12 +5,12 @@
     "sdk": 31,
     "manufacturer": "INFINIX",
     "model": "Infinix X6823C",
-    "battery": 35,
+    "battery": 36,
     "charging": false,
     "sim": "TELKOMSEL"
   },
-  "lastSeen": "2026-07-10T14:44:46.378Z",
-  "connectedAt": "2026-07-10T14:37:25.225Z",
+  "lastSeen": "2026-07-10T14:50:00.700Z",
+  "connectedAt": "2026-07-10T14:44:46.839Z",
   "status": {
     "flashlight": false,
     "cameraActive": false,
