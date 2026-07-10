@@ -1,6 +1,7 @@
 {
   "id": "xyz-3b27fe4ad0e4e1e8",
   "name": "Vivo V2322",
+  "socketId": "FUEeJKW3PnLGP5nxAAIo",
   "info": {
     "sdk": 35,
     "manufacturer": "vivo",
@@ -9,8 +10,9 @@
     "charging": false,
     "sim": "Unknown"
   },
-  "lastSeen": "2026-07-10T19:31:54.891Z",
-  "connectedAt": "2026-07-10T19:31:01.970Z",
+  "connectedAt": "2026-07-10T19:35:52.579Z",
+  "lastSeen": "2026-07-10T19:35:52.579Z",
+  "ownerUid": "0OA98HNH7LGEZ68J",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,6 +24,5 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "ownerUid": "0OA98HNH7LGEZ68J",
-  "online": false
+  "online": true
 }
