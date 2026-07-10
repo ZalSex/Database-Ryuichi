@@ -1,7 +1,7 @@
 {
   "id": "xyz-3b27fe4ad0e4e1e8",
   "name": "Vivo V2322",
-  "socketId": "86CFVzgBt5_sSfWMAAH6",
+  "socketId": "mFUzDCUNvVUL1s62AAH-",
   "info": {
     "sdk": 35,
     "manufacturer": "vivo",
@@ -10,8 +10,8 @@
     "charging": false,
     "sim": "Unknown"
   },
-  "connectedAt": "2026-07-10T19:28:59.902Z",
-  "lastSeen": "2026-07-10T19:28:59.902Z",
+  "connectedAt": "2026-07-10T19:29:15.320Z",
+  "lastSeen": "2026-07-10T19:29:15.320Z",
   "ownerUid": "0OA98HNH7LGEZ68J",
   "status": {
     "flashlight": false,
