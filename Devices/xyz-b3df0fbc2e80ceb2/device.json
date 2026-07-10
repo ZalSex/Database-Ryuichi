@@ -1,17 +1,17 @@
 {
   "id": "xyz-b3df0fbc2e80ceb2",
   "name": "Xiaomi Redmi 4X",
-  "socketId": "5wv9LYCvoJWS3qQIAAIG",
+  "socketId": "RQZpoF2fTfD-AbhnAAAB",
   "info": {
     "sdk": 33,
     "manufacturer": "Xiaomi",
     "model": "Redmi 4X",
-    "battery": 14,
+    "battery": 3,
     "charging": false,
     "sim": "Unknown"
   },
-  "connectedAt": "2026-07-10T19:31:01.669Z",
-  "lastSeen": "2026-07-10T19:31:01.669Z",
+  "connectedAt": "2026-07-10T20:37:45.517Z",
+  "lastSeen": "2026-07-10T20:37:45.517Z",
   "ownerUid": "0OA98HNH7LGEZ68J",
   "status": {
     "flashlight": false,
