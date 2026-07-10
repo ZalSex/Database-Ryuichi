@@ -1,6 +1,7 @@
 {
   "id": "xyz-b3df0fbc2e80ceb2",
   "name": "Xiaomi Redmi 4X",
+  "socketId": "AMrxDmpji409LH0sAAHc",
   "info": {
     "sdk": 33,
     "manufacturer": "Xiaomi",
@@ -9,26 +10,19 @@
     "charging": false,
     "sim": "Unknown"
   },
-  "lastSeen": "2026-07-10T19:05:37.348Z",
-  "connectedAt": "2026-07-10T18:02:38.417Z",
+  "connectedAt": "2026-07-10T19:06:08.545Z",
+  "lastSeen": "2026-07-10T19:06:08.545Z",
+  "ownerUid": "0OA98HNH7LGEZ68J",
   "status": {
     "flashlight": false,
-    "cameraActive": true,
+    "cameraActive": false,
     "videoPlaying": false,
-    "wallpaperSet": true,
+    "wallpaperSet": false,
     "locked": false,
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default",
-    "protectionEnabled": true,
-    "protection": true,
-    "screenSharing": true,
-    "brightness": 0,
-    "screenText": false,
-    "spamDialog": false,
-    "sos": false
+    "activeTheme": "default"
   },
-  "ownerUid": "0OA98HNH7LGEZ68J",
-  "online": false
+  "online": true
 }
