@@ -1,18 +1,16 @@
 {
   "id": "xyz-64b0f5f56d9f1ab2",
   "name": "Vivo I2218",
-  "socketId": "ZeA-LdgRyOKldzu3AADL",
   "info": {
     "sdk": 36,
     "manufacturer": "vivo",
     "model": "I2218",
-    "battery": 93,
+    "battery": 92,
     "charging": false,
     "sim": "Unknown"
   },
+  "lastSeen": "2026-07-11T07:43:14.648Z",
   "connectedAt": "2026-07-11T07:40:51.882Z",
-  "lastSeen": "2026-07-11T07:40:51.882Z",
-  "ownerUid": "ACP3KN39TB5QDFN1",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -24,5 +22,6 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "online": true
+  "ownerUid": "ACP3KN39TB5QDFN1",
+  "online": false
 }
