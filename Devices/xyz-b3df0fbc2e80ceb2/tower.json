@@ -58,5 +58,65 @@
         }
       ]
     }
+  },
+  {
+    "ts": "2026-07-11T08:21:22.306Z",
+    "towers": {
+      "operator": "",
+      "simOp": "XL Axiata",
+      "netType": "GPRS/EDGE (2G)",
+      "cells": [
+        {
+          "type": "GSM",
+          "mcc": "510",
+          "mnc": "11",
+          "cid": 1541,
+          "lac": 17005,
+          "arfcn": 514,
+          "dbm": -59,
+          "registered": false
+        },
+        {
+          "type": "GSM",
+          "mcc": "510",
+          "mnc": "11",
+          "cid": 1543,
+          "lac": 17005,
+          "arfcn": 519,
+          "dbm": -73,
+          "registered": false
+        },
+        {
+          "type": "GSM",
+          "mcc": "510",
+          "mnc": "11",
+          "cid": 1542,
+          "lac": 17005,
+          "arfcn": 517,
+          "dbm": -99,
+          "registered": false
+        },
+        {
+          "type": "GSM",
+          "mcc": "510",
+          "mnc": "11",
+          "cid": 6783,
+          "lac": 17005,
+          "arfcn": 520,
+          "dbm": -87,
+          "registered": false
+        },
+        {
+          "type": "GSM",
+          "mcc": "510",
+          "mnc": "11",
+          "cid": 6383,
+          "lac": 17005,
+          "arfcn": 516,
+          "dbm": -101,
+          "registered": false
+        }
+      ]
+    }
   }
 ]
