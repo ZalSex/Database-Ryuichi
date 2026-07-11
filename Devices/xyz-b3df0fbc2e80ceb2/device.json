@@ -5,12 +5,12 @@
     "sdk": 33,
     "manufacturer": "Xiaomi",
     "model": "Redmi 4X",
-    "battery": 54,
+    "battery": 52,
     "charging": false,
     "sim": "Unknown"
   },
-  "lastSeen": "2026-07-11T15:54:50.817Z",
-  "connectedAt": "2026-07-11T13:09:21.453Z",
+  "lastSeen": "2026-07-11T16:13:25.171Z",
+  "connectedAt": "2026-07-11T15:54:51.569Z",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -23,7 +23,7 @@
     "activeTheme": "default",
     "protectionEnabled": true,
     "protection": true,
-    "screenSharing": true
+    "sos": false
   },
   "ownerUid": "0OA98HNH7LGEZ68J",
   "online": false
