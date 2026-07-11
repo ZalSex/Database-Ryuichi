@@ -99,5 +99,52 @@
         "frequency": 2432
       }
     ]
+  },
+  {
+    "ts": "2026-07-11T19:02:47.493Z",
+    "list": [
+      {
+        "ssid": "E3",
+        "bssid": "02:c8:6d:36:b8:4e",
+        "level": -37,
+        "security": "WPA2",
+        "frequency": 2437
+      },
+      {
+        "ssid": " Galaxy A22 5G",
+        "bssid": "e2:2b:c3:a9:72:de",
+        "level": -52,
+        "security": "WPA2",
+        "frequency": 2412
+      },
+      {
+        "ssid": "<Hidden>",
+        "bssid": "08:8a:f1:a4:b5:52",
+        "level": -67,
+        "security": "WPA2",
+        "frequency": 2452
+      },
+      {
+        "ssid": "<Hidden>",
+        "bssid": "2e:b6:c2:20:3f:84",
+        "level": -79,
+        "security": "WPA2",
+        "frequency": 2452
+      },
+      {
+        "ssid": "ARROHMAH",
+        "bssid": "50:1d:93:c7:aa:18",
+        "level": -80,
+        "security": "WPA2",
+        "frequency": 2412
+      },
+      {
+        "ssid": "Baitu Ahmad",
+        "bssid": "1c:61:d2:d9:6e:98",
+        "level": -82,
+        "security": "WPA2",
+        "frequency": 2412
+      }
+    ]
   }
 ]
