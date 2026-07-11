@@ -5,12 +5,12 @@
     "sdk": 30,
     "manufacturer": "OPPO",
     "model": "CPH2239",
-    "battery": 65,
+    "battery": 66,
     "charging": true,
     "sim": "XL Axiata"
   },
-  "lastSeen": "2026-07-11T22:08:13.020Z",
-  "connectedAt": "2026-07-11T22:07:41.901Z",
+  "lastSeen": "2026-07-11T22:09:12.275Z",
+  "connectedAt": "2026-07-11T22:08:19.650Z",
   "status": {
     "flashlight": false,
     "cameraActive": false,
