@@ -1,17 +1,17 @@
 {
   "id": "xyz-fce34690d0001d55",
   "name": "Infinix X6823C",
-  "socketId": "KdvyJQ_tARV0DcHhAABZ",
+  "socketId": "FvMFDWsbYlEnpVUHAABz",
   "info": {
     "sdk": 31,
     "manufacturer": "INFINIX",
     "model": "Infinix X6823C",
-    "battery": 83,
+    "battery": 81,
     "charging": false,
     "sim": "TELKOMSEL"
   },
-  "connectedAt": "2026-07-11T01:04:30.240Z",
-  "lastSeen": "2026-07-11T01:04:30.240Z",
+  "connectedAt": "2026-07-11T01:23:22.236Z",
+  "lastSeen": "2026-07-11T01:23:22.236Z",
   "ownerUid": "5A9W9URE3YWBHBWF",
   "status": {
     "flashlight": false,
