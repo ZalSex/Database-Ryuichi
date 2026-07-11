@@ -66,5 +66,38 @@
         "frequency": 2462
       }
     ]
+  },
+  {
+    "ts": "2026-07-11T08:21:16.289Z",
+    "list": [
+      {
+        "ssid": "Tecno Pova 6",
+        "bssid": "ce:e9:dd:89:9d:1e",
+        "level": -36,
+        "security": "WPA2",
+        "frequency": 2412
+      },
+      {
+        "ssid": "<Hidden>",
+        "bssid": "2e:b6:c2:20:3f:84",
+        "level": -72,
+        "security": "WPA2",
+        "frequency": 2452
+      },
+      {
+        "ssid": "Jangan Terong",
+        "bssid": "1a:89:a5:2c:3f:e3",
+        "level": -77,
+        "security": "WPA2",
+        "frequency": 2467
+      },
+      {
+        "ssid": "Che-en collection",
+        "bssid": "bc:3f:8f:fe:4c:e8",
+        "level": -83,
+        "security": "WPA2",
+        "frequency": 2432
+      }
+    ]
   }
 ]
