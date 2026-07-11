@@ -1,17 +1,17 @@
 {
   "id": "xyz-c38ae138643354eb",
   "name": "Realme RMX3760",
-  "socketId": "hzltEsQilvrXDxguAADS",
+  "socketId": "wPlOg9DtVu3Om5IrAAAF",
   "info": {
     "sdk": 35,
     "manufacturer": "realme",
     "model": "RMX3760",
-    "battery": 84,
+    "battery": 83,
     "charging": false,
     "sim": "TELKOMSEL"
   },
-  "connectedAt": "2026-07-11T02:38:48.287Z",
-  "lastSeen": "2026-07-11T02:38:48.287Z",
+  "connectedAt": "2026-07-11T02:40:58.916Z",
+  "lastSeen": "2026-07-11T02:40:58.916Z",
   "ownerUid": null,
   "status": {
     "flashlight": false,
