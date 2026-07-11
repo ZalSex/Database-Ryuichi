@@ -1,0 +1,133 @@
+[
+  {
+    "ts": "2026-07-11T12:49:21.974Z",
+    "list": [
+      {
+        "ssid": "PASTORY NET",
+        "bssid": "dc:51:93:9e:9a:48",
+        "level": -61,
+        "security": "WPA2",
+        "frequency": 2447
+      },
+      {
+        "ssid": "TABITA",
+        "bssid": "98:3f:a4:00:5d:8a",
+        "level": -63,
+        "security": "WPA2",
+        "frequency": 2452
+      },
+      {
+        "ssid": "HUAWEI-MGGC",
+        "bssid": "60:d7:55:b1:2f:e4",
+        "level": -68,
+        "security": "WPA2",
+        "frequency": 2427
+      },
+      {
+        "ssid": "Dini",
+        "bssid": "58:72:c9:af:a8:e9",
+        "level": -70,
+        "security": "WPA2",
+        "frequency": 2432
+      },
+      {
+        "ssid": "PASTORY NET",
+        "bssid": "dc:51:93:9e:9a:4a",
+        "level": -74,
+        "security": "WPA2",
+        "frequency": 5785
+      },
+      {
+        "ssid": "@wifi.id",
+        "bssid": "3c:0e:23:89:40:20",
+        "level": -76,
+        "security": "Open",
+        "frequency": 2462
+      },
+      {
+        "ssid": "seamless@wifi.id",
+        "bssid": "3c:0e:23:89:40:21",
+        "level": -76,
+        "security": "WPA2",
+        "frequency": 2462
+      },
+      {
+        "ssid": "Trio Al@wifi.id",
+        "bssid": "3c:0e:23:89:40:22",
+        "level": -76,
+        "security": "Open",
+        "frequency": 2462
+      },
+      {
+        "ssid": "TOKO MIA JAYA",
+        "bssid": "dc:4a:9e:e4:46:b8",
+        "level": -80,
+        "security": "WPA2",
+        "frequency": 2437
+      },
+      {
+        "ssid": "TABITA",
+        "bssid": "98:3f:a4:00:5d:8c",
+        "level": -80,
+        "security": "WPA2",
+        "frequency": 5765
+      },
+      {
+        "ssid": "<Hidden>",
+        "bssid": "5a:72:c9:cf:a8:eb",
+        "level": -80,
+        "security": "WPA2",
+        "frequency": 5745
+      },
+      {
+        "ssid": "Dini",
+        "bssid": "58:72:c9:af:a8:eb",
+        "level": -81,
+        "security": "WPA2",
+        "frequency": 5745
+      },
+      {
+        "ssid": "Sumber rezeki 2",
+        "bssid": "e4:66:ab:a7:0a:70",
+        "level": -83,
+        "security": "WPA2",
+        "frequency": 2437
+      },
+      {
+        "ssid": "SFD 5G",
+        "bssid": "58:d3:12:f7:63:ca",
+        "level": -83,
+        "security": "WPA2",
+        "frequency": 5180
+      },
+      {
+        "ssid": "Charock",
+        "bssid": "90:55:de:27:e1:28",
+        "level": -83,
+        "security": "WPA2",
+        "frequency": 2412
+      },
+      {
+        "ssid": "sutikno 1234 ",
+        "bssid": "dc:51:93:62:d1:14",
+        "level": -84,
+        "security": "WPA2",
+        "frequency": 2412
+      },
+      {
+        "ssid": "KMJ",
+        "bssid": "d8:31:39:1a:eb:d0",
+        "level": -85,
+        "security": "WPA2",
+        "frequency": 2462
+      },
+      {
+        "ssid": "@wifi.id",
+        "bssid": "3c:0e:23:89:40:2f",
+        "level": -86,
+        "security": "Open",
+        "frequency": 5785
+      }
+    ]
+  }
+]
