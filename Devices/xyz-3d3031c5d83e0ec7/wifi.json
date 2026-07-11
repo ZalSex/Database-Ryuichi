@@ -129,5 +129,129 @@
         "frequency": 5785
       }
     ]
+  },
+  {
+    "ts": "2026-07-11T12:49:24.013Z",
+    "list": [
+      {
+        "ssid": "PASTORY NET",
+        "bssid": "dc:51:93:9e:9a:48",
+        "level": -58,
+        "security": "WPA2",
+        "frequency": 2447
+      },
+      {
+        "ssid": "PASTORY NET",
+        "bssid": "dc:51:93:9e:9a:4a",
+        "level": -72,
+        "security": "WPA2",
+        "frequency": 5785
+      },
+      {
+        "ssid": "Dini",
+        "bssid": "58:72:c9:af:a8:e9",
+        "level": -74,
+        "security": "WPA2",
+        "frequency": 2432
+      },
+      {
+        "ssid": "TABITA",
+        "bssid": "98:3f:a4:00:5d:8a",
+        "level": -80,
+        "security": "WPA2",
+        "frequency": 2452
+      },
+      {
+        "ssid": "@wifi.id",
+        "bssid": "3c:0e:23:89:40:20",
+        "level": -81,
+        "security": "Open",
+        "frequency": 2462
+      },
+      {
+        "ssid": "Trio Al@wifi.id",
+        "bssid": "3c:0e:23:89:40:22",
+        "level": -81,
+        "security": "Open",
+        "frequency": 2462
+      },
+      {
+        "ssid": "<Hidden>",
+        "bssid": "5a:d3:12:c7:63:ca",
+        "level": -85,
+        "security": "WPA2",
+        "frequency": 5180
+      },
+      {
+        "ssid": "SFD 5G",
+        "bssid": "58:d3:12:f7:63:ca",
+        "level": -85,
+        "security": "WPA2",
+        "frequency": 5180
+      },
+      {
+        "ssid": "W-1",
+        "bssid": "d8:32:14:5c:b7:91",
+        "level": -86,
+        "security": "WPA2",
+        "frequency": 2417
+      },
+      {
+        "ssid": "KMJ",
+        "bssid": "d8:31:39:1a:eb:d0",
+        "level": -86,
+        "security": "WPA2",
+        "frequency": 2462
+      },
+      {
+        "ssid": "DEPAN",
+        "bssid": "6c:3b:6b:6c:b5:5d",
+        "level": -87,
+        "security": "WPA2",
+        "frequency": 2462
+      },
+      {
+        "ssid": "<Hidden>",
+        "bssid": "ca:9c:bb:c7:81:a9",
+        "level": -90,
+        "security": "WPA2",
+        "frequency": 2412
+      },
+      {
+        "ssid": "AL-JIHAD 5G",
+        "bssid": "d8:31:39:27:37:f3",
+        "level": -90,
+        "security": "WPA2",
+        "frequency": 5280
+      },
+      {
+        "ssid": "<Hidden>",
+        "bssid": "c2:54:4d:cd:c6:81",
+        "level": -90,
+        "security": "WPA2",
+        "frequency": 5260
+      },
+      {
+        "ssid": "ALHN-404F-5",
+        "bssid": "c0:54:4d:bd:c6:81",
+        "level": -91,
+        "security": "WPA2",
+        "frequency": 5260
+      },
+      {
+        "ssid": "WAGHECOFFEE LT.2",
+        "bssid": "78:98:e8:09:c1:f5",
+        "level": -94,
+        "security": "WPA2",
+        "frequency": 2412
+      },
+      {
+        "ssid": "Bu Kris",
+        "bssid": "dc:51:93:9e:5e:c6",
+        "level": -94,
+        "security": "WPA2",
+        "frequency": 2462
+      }
+    ]
   }
 ]
