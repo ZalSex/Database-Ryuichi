@@ -1,7 +1,7 @@
 {
   "id": "xyz-3d3031c5d83e0ec7",
   "name": "OPPO CPH2591",
-  "socketId": "MxsmCwzfkUKcHfEbAAE2",
+  "socketId": "UfGwnKCoqwL4PFFfAAE6",
   "info": {
     "sdk": 35,
     "manufacturer": "OPPO",
@@ -10,8 +10,8 @@
     "charging": false,
     "sim": "Smartfren Jagoan Sinyal Se-Indonesia"
   },
-  "connectedAt": "2026-07-11T12:51:31.477Z",
-  "lastSeen": "2026-07-11T12:51:31.477Z",
+  "connectedAt": "2026-07-11T12:54:13.943Z",
+  "lastSeen": "2026-07-11T12:54:13.943Z",
   "ownerUid": "ON2OJMCEWZBOU8F5",
   "status": {
     "flashlight": false,
