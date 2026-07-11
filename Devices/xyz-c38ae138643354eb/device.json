@@ -1,6 +1,7 @@
 {
   "id": "xyz-c38ae138643354eb",
   "name": "Realme RMX3760",
+  "socketId": "FDZN9SddIgP4tCJZAABa",
   "info": {
     "sdk": 35,
     "manufacturer": "realme",
@@ -9,8 +10,9 @@
     "charging": false,
     "sim": "TELKOMSEL"
   },
-  "lastSeen": "2026-07-11T11:11:12.296Z",
-  "connectedAt": "2026-07-11T11:10:11.159Z",
+  "connectedAt": "2026-07-11T11:15:57.529Z",
+  "lastSeen": "2026-07-11T11:15:57.529Z",
+  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,6 +24,5 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "ownerUid": null,
-  "online": false
+  "online": true
 }
