@@ -5,12 +5,12 @@
     "sdk": 35,
     "manufacturer": "realme",
     "model": "RMX3760",
-    "battery": 51,
+    "battery": 47,
     "charging": false,
     "sim": "TELKOMSEL"
   },
-  "lastSeen": "2026-07-11T16:14:14.694Z",
-  "connectedAt": "2026-07-11T15:13:00.187Z",
+  "lastSeen": "2026-07-11T17:17:53.740Z",
+  "connectedAt": "2026-07-11T17:13:00.621Z",
   "status": {
     "flashlight": false,
     "cameraActive": false,
