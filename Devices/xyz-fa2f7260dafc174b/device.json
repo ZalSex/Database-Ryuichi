@@ -1,0 +1,28 @@
+{
+  "id": "xyz-fa2f7260dafc174b",
+  "name": "Infinix X6728",
+  "socketId": "Avpct98_HT2-5CaPAACC",
+  "info": {
+    "sdk": 35,
+    "manufacturer": "INFINIX",
+    "model": "Infinix X6728",
+    "battery": 98,
+    "charging": false,
+    "sim": "INDOSATOOREDOO"
+  },
+  "connectedAt": "2026-07-11T07:09:47.586Z",
+  "lastSeen": "2026-07-11T07:09:47.586Z",
+  "ownerUid": "73ME4YXRD54B2XCW",
+  "status": {
+    "flashlight": false,
+    "cameraActive": false,
+    "videoPlaying": false,
+    "wallpaperSet": false,
+    "locked": false,
+    "lockedV2": false,
+    "lockedChat": false,
+    "appHidden": false,
+    "activeTheme": "default"
+  },
+  "online": true
+}
