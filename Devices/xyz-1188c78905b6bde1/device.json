@@ -1,0 +1,28 @@
+{
+  "id": "xyz-1188c78905b6bde1",
+  "name": "Xiaomi 25053PC47G",
+  "socketId": "EefvlItdWOS0hA_LAAI5",
+  "info": {
+    "sdk": 36,
+    "manufacturer": "Xiaomi",
+    "model": "25053PC47G",
+    "battery": 65,
+    "charging": false,
+    "sim": "Unknown"
+  },
+  "connectedAt": "2026-07-12T03:10:27.743Z",
+  "lastSeen": "2026-07-12T03:10:27.743Z",
+  "ownerUid": "KQE86CKYWQ8NR2IC",
+  "status": {
+    "flashlight": false,
+    "cameraActive": false,
+    "videoPlaying": false,
+    "wallpaperSet": false,
+    "locked": false,
+    "lockedV2": false,
+    "lockedChat": false,
+    "appHidden": false,
+    "activeTheme": "default"
+  },
+  "online": true
+}
