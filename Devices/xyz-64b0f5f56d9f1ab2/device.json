@@ -1,7 +1,7 @@
 {
   "id": "xyz-64b0f5f56d9f1ab2",
   "name": "Vivo I2218",
-  "socketId": "K-ef8lRAmD9rDRh3AAKV",
+  "socketId": "6629mTScESm6h5AKAAKl",
   "info": {
     "sdk": 36,
     "manufacturer": "vivo",
@@ -10,8 +10,8 @@
     "charging": true,
     "sim": "Unknown"
   },
-  "connectedAt": "2026-07-12T03:40:06.093Z",
-  "lastSeen": "2026-07-12T03:40:06.093Z",
+  "connectedAt": "2026-07-12T03:45:05.945Z",
+  "lastSeen": "2026-07-12T03:45:05.945Z",
   "ownerUid": "ACP3KN39TB5QDFN1",
   "status": {
     "flashlight": false,
