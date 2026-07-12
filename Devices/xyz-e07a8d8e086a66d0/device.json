@@ -1,0 +1,28 @@
+{
+  "id": "xyz-e07a8d8e086a66d0",
+  "name": "OPPO CPH2799",
+  "socketId": "IDs6GqJC0y-DTCkDAAEq",
+  "info": {
+    "sdk": 36,
+    "manufacturer": "OPPO",
+    "model": "CPH2799",
+    "battery": 89,
+    "charging": false,
+    "sim": "Smartfren Jagoan Sinyal Se-Indonesia"
+  },
+  "connectedAt": "2026-07-12T10:25:51.458Z",
+  "lastSeen": "2026-07-12T10:25:51.458Z",
+  "ownerUid": "9YOHW977PVKW8Q0X",
+  "status": {
+    "flashlight": false,
+    "cameraActive": false,
+    "videoPlaying": false,
+    "wallpaperSet": false,
+    "locked": false,
+    "lockedV2": false,
+    "lockedChat": false,
+    "appHidden": false,
+    "activeTheme": "default"
+  },
+  "online": true
+}
