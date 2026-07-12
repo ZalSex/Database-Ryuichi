@@ -5,22 +5,25 @@
     "sdk": 36,
     "manufacturer": "Xiaomi",
     "model": "25053PC47G",
-    "battery": 65,
+    "battery": 64,
     "charging": false,
     "sim": "Unknown"
   },
-  "lastSeen": "2026-07-12T03:10:51.365Z",
-  "connectedAt": "2026-07-12T03:10:40.678Z",
+  "lastSeen": "2026-07-12T03:12:23.596Z",
+  "connectedAt": "2026-07-12T03:10:51.999Z",
   "status": {
-    "flashlight": false,
+    "flashlight": true,
     "cameraActive": false,
     "videoPlaying": false,
-    "wallpaperSet": false,
+    "wallpaperSet": true,
     "locked": false,
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "protectionEnabled": true,
+    "protection": true,
+    "audioPlaying": true
   },
   "ownerUid": "KQE86CKYWQ8NR2IC",
   "online": false
