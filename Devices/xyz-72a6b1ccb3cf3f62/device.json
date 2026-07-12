@@ -1,7 +1,7 @@
 {
   "id": "xyz-72a6b1ccb3cf3f62",
   "name": "OPPO CPH2239",
-  "socketId": "Wh08Oi8Tv81fIdRsAANj",
+  "socketId": "wv571Dadg6HMVBn0AANl",
   "info": {
     "sdk": 30,
     "manufacturer": "OPPO",
@@ -10,8 +10,8 @@
     "charging": true,
     "sim": "XL Axiata"
   },
-  "connectedAt": "2026-07-12T18:43:06.283Z",
-  "lastSeen": "2026-07-12T18:43:06.283Z",
+  "connectedAt": "2026-07-12T18:43:46.952Z",
+  "lastSeen": "2026-07-12T18:43:46.952Z",
   "ownerUid": "Z82JROSJS3XAO1ZW",
   "status": {
     "flashlight": false,
