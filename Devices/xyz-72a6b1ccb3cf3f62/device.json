@@ -1,16 +1,18 @@
 {
   "id": "xyz-72a6b1ccb3cf3f62",
   "name": "OPPO CPH2239",
+  "socketId": "0DJuAOhdZ_Ewoa-4AAF-",
   "info": {
     "sdk": 30,
     "manufacturer": "OPPO",
     "model": "CPH2239",
-    "battery": 12,
+    "battery": 11,
     "charging": false,
     "sim": "XL Axiata"
   },
-  "lastSeen": "2026-07-12T12:20:32.756Z",
-  "connectedAt": "2026-07-12T12:20:22.788Z",
+  "connectedAt": "2026-07-12T12:21:02.964Z",
+  "lastSeen": "2026-07-12T12:21:02.964Z",
+  "ownerUid": "Z82JROSJS3XAO1ZW",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,6 +24,5 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "ownerUid": "Z82JROSJS3XAO1ZW",
-  "online": false
+  "online": true
 }
