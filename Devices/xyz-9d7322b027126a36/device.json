@@ -1,18 +1,16 @@
 {
   "id": "xyz-9d7322b027126a36",
   "name": "vivo 1907",
-  "socketId": "YQzi3PdJm1osDV4EAAJD",
   "info": {
     "sdk": 31,
     "manufacturer": "vivo",
     "model": "vivo 1907",
-    "battery": 58,
+    "battery": 55,
     "charging": false,
     "sim": "TELKOMSEL"
   },
+  "lastSeen": "2026-07-16T21:48:47.768Z",
   "connectedAt": "2026-07-16T21:28:14.832Z",
-  "lastSeen": "2026-07-16T21:28:14.832Z",
-  "ownerUid": "ACP3KN39TB5QDFN1",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,7 +20,10 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "protectionEnabled": true,
+    "protection": true
   },
-  "online": true
+  "ownerUid": "ACP3KN39TB5QDFN1",
+  "online": false
 }
