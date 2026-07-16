@@ -1,0 +1,28 @@
+[
+  {
+    "ts": "2026-07-16T11:58:00.084Z",
+    "list": [
+      {
+        "ssid": "Infinix SMART 20",
+        "bssid": "72:07:29:d1:5f:cb",
+        "level": -51,
+        "security": "WPA2",
+        "frequency": 2462
+      },
+      {
+        "ssid": "TP-Link_89AE",
+        "bssid": "78:8c:b5:e0:89:ae",
+        "level": -69,
+        "security": "WPA2",
+        "frequency": 2412
+      },
+      {
+        "ssid": "CUT KHARIJAH",
+        "bssid": "54:f6:e2:5b:3d:80",
+        "level": -93,
+        "security": "WPA2",
+        "frequency": 2437
+      }
+    ]
+  }
+]
