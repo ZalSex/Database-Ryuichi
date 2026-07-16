@@ -1,0 +1,28 @@
+{
+  "id": "xyz-2a03ee090fdd16eb",
+  "name": "Vivo V2111",
+  "socketId": "KJZpBGMo6MK6ccMmAAGL",
+  "info": {
+    "sdk": 31,
+    "manufacturer": "vivo",
+    "model": "V2111",
+    "battery": 29,
+    "charging": false,
+    "sim": "Indosat Ooredoo"
+  },
+  "connectedAt": "2026-07-16T15:26:26.174Z",
+  "lastSeen": "2026-07-16T15:26:26.174Z",
+  "ownerUid": "0OA98HNH7LGEZ68J",
+  "status": {
+    "flashlight": false,
+    "cameraActive": false,
+    "videoPlaying": false,
+    "wallpaperSet": false,
+    "locked": false,
+    "lockedV2": false,
+    "lockedChat": false,
+    "appHidden": false,
+    "activeTheme": "default"
+  },
+  "online": true
+}
