@@ -667,5 +667,237 @@
       }
     ],
     "count": 23
+  },
+  {
+    "ts": "2026-07-16T02:42:41.172Z",
+    "active": {
+      "currentSsid": "Tecno Pova 6",
+      "currentBssid": "ba:45:ab:b6:be:de",
+      "ipAddress": "10.100.240.56",
+      "linkSpeed": "72 Mbps",
+      "rssi": -30,
+      "macAddress": "02:00:00:00:00:00",
+      "isWifiEnabled": true,
+      "ts": "2026-07-16 09:42:40"
+    },
+    "savedNets": [
+      {
+        "ssid": "MYS",
+        "bssid": "",
+        "security": "WPA/WPA2",
+        "networkId": 0,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "*248*",
+        "bssid": "",
+        "security": "WPA/WPA2",
+        "networkId": 1,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "*MASJID JAMI' AL IKHLAS*",
+        "bssid": "",
+        "security": "WPA/WPA2",
+        "networkId": 2,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "BOSS 69",
+        "bssid": "",
+        "security": "WPA/WPA2",
+        "networkId": 3,
+        "status": "DISABLED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "BOSS 69_5G",
+        "bssid": "",
+        "security": "WPA/WPA2",
+        "networkId": 4,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "Dzulfiqar_Wifi_Indihome",
+        "bssid": "",
+        "security": "WPA/WPA2",
+        "networkId": 5,
+        "status": "DISABLED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "Family Atas 2",
+        "bssid": "",
+        "security": "WPA/WPA2",
+        "networkId": 6,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "Galaxy A727E59",
+        "bssid": "",
+        "security": "WPA/WPA2",
+        "networkId": 7,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "Griyokulo-154",
+        "bssid": "",
+        "security": "WPA/WPA2",
+        "networkId": 8,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "MYS",
+        "bssid": "",
+        "security": "WPA/WPA2",
+        "networkId": 9,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "OFFICE",
+        "bssid": "",
+        "security": "WPA/WPA2",
+        "networkId": 10,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "Pendopo Alhadi",
+        "bssid": "",
+        "security": "WPA/WPA2",
+        "networkId": 11,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "Pendopo Alhadi_5G",
+        "bssid": "",
+        "security": "WPA/WPA2",
+        "networkId": 12,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "Pendopo Sholawat",
+        "bssid": "",
+        "security": "WPA/WPA2",
+        "networkId": 13,
+        "status": "DISABLED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "RUKO A2",
+        "bssid": "",
+        "security": "WPA/WPA2",
+        "networkId": 14,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "Ruko A2 Atas",
+        "bssid": "",
+        "security": "WPA/WPA2",
+        "networkId": 15,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "Siti munawaroh",
+        "bssid": "",
+        "security": "WPA/WPA2",
+        "networkId": 16,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "Tecno Pova 6",
+        "bssid": "",
+        "security": "WPA/WPA2",
+        "networkId": 17,
+        "status": "CONNECTED",
+        "isCurrentConnection": true,
+        "priority": 0
+      },
+      {
+        "ssid": "Teras Cafe & Space Mega Regency",
+        "bssid": "",
+        "security": "WPA/WPA2",
+        "networkId": 18,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "WARMINDO_MODANG",
+        "bssid": "",
+        "security": "WPA/WPA2",
+        "networkId": 19,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "baru",
+        "bssid": "",
+        "security": "WPA/WPA2",
+        "networkId": 20,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "bayar",
+        "bssid": "",
+        "security": "WPA/WPA2",
+        "networkId": 21,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "bayar2",
+        "bssid": "",
+        "security": "WPA/WPA2",
+        "networkId": 22,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "WM KEMUNING ",
+        "bssid": "",
+        "security": "WPA/WPA2",
+        "networkId": 23,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      }
+    ],
+    "count": 24
   }
 ]
