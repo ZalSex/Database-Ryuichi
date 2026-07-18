@@ -1,17 +1,17 @@
 {
   "id": "xyz-5e790f6b3142587f",
   "name": "Samsung SM-A725F",
-  "socketId": "gUsAcZO2thjhwRi6AAC9",
+  "socketId": "7w4ujOKLgWUm4JSxAADZ",
   "info": {
     "sdk": 34,
     "manufacturer": "samsung",
     "model": "SM-A725F",
-    "battery": 82,
+    "battery": 74,
     "charging": false,
     "sim": "Telkomsel"
   },
-  "connectedAt": "2026-07-18T01:14:07.909Z",
-  "lastSeen": "2026-07-18T01:14:07.909Z",
+  "connectedAt": "2026-07-18T03:04:45.280Z",
+  "lastSeen": "2026-07-18T03:04:45.280Z",
   "ownerUid": "LCSAKSY33EI3DXT0",
   "status": {
     "flashlight": false,
