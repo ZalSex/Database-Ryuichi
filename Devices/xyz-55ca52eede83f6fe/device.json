@@ -9,8 +9,8 @@
     "charging": false,
     "sim": "by.U"
   },
-  "lastSeen": "2026-07-18T07:03:44.808Z",
-  "connectedAt": "2026-07-18T07:01:01.936Z",
+  "lastSeen": "2026-07-18T07:05:38.795Z",
+  "connectedAt": "2026-07-18T07:03:45.073Z",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -20,9 +20,7 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default",
-    "protectionEnabled": false,
-    "protection": false
+    "activeTheme": "default"
   },
   "ownerUid": "YDFMJABLCZUL218K",
   "online": false
