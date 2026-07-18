@@ -1,0 +1,28 @@
+{
+  "id": "xyz-55ca52eede83f6fe",
+  "name": "Infinix X6515",
+  "socketId": "FmRc9zHmdUe8xO1hAACT",
+  "info": {
+    "sdk": 31,
+    "manufacturer": "INFINIX",
+    "model": "Infinix X6515",
+    "battery": 77,
+    "charging": false,
+    "sim": "by.U"
+  },
+  "connectedAt": "2026-07-18T07:01:01.936Z",
+  "lastSeen": "2026-07-18T07:01:01.936Z",
+  "ownerUid": "YDFMJABLCZUL218K",
+  "status": {
+    "flashlight": false,
+    "cameraActive": false,
+    "videoPlaying": false,
+    "wallpaperSet": false,
+    "locked": false,
+    "lockedV2": false,
+    "lockedChat": false,
+    "appHidden": false,
+    "activeTheme": "default"
+  },
+  "online": true
+}
