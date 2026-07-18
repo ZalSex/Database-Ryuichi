@@ -1,0 +1,77 @@
+[
+  {
+    "ts": "2026-07-18T15:35:49.837Z",
+    "towers": {
+      "operator": "INDOSATOOREDOO",
+      "simOp": "ISAT-PEMILUDAMAI",
+      "netType": "LTE (4G)",
+      "cells": [
+        {
+          "type": "LTE",
+          "mcc": "510",
+          "mnc": "01",
+          "ci": 81207368,
+          "pci": 200,
+          "tac": 30176,
+          "earfcn": 1625,
+          "rsrp": -93,
+          "rsrq": -10,
+          "dbm": -93,
+          "registered": true
+        },
+        {
+          "type": "LTE",
+          "mcc": "-",
+          "mnc": "-",
+          "ci": 0,
+          "pci": 200,
+          "tac": 65535,
+          "earfcn": 1475,
+          "rsrp": -91,
+          "rsrq": -11,
+          "dbm": -91,
+          "registered": false
+        },
+        {
+          "type": "LTE",
+          "mcc": "-",
+          "mnc": "-",
+          "ci": 0,
+          "pci": 335,
+          "tac": 0,
+          "earfcn": 1625,
+          "rsrp": -96,
+          "rsrq": -13,
+          "dbm": -96,
+          "registered": false
+        },
+        {
+          "type": "LTE",
+          "mcc": "-",
+          "mnc": "-",
+          "ci": 0,
+          "pci": 355,
+          "tac": 0,
+          "earfcn": 1625,
+          "rsrp": -103,
+          "rsrq": -21,
+          "dbm": -103,
+          "registered": false
+        },
+        {
+          "type": "LTE",
+          "mcc": "-",
+          "mnc": "-",
+          "ci": 0,
+          "pci": 335,
+          "tac": 0,
+          "earfcn": 1475,
+          "rsrp": -99,
+          "rsrq": -17,
+          "dbm": -99,
+          "registered": false
+        }
+      ]
+    }
+  }
+]
