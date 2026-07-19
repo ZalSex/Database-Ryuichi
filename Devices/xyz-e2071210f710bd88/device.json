@@ -1,6 +1,7 @@
 {
   "id": "xyz-e2071210f710bd88",
   "name": "Realme RMX2180",
+  "socketId": "vMXPJ-jwUJfdyfaxAAKt",
   "info": {
     "sdk": 30,
     "manufacturer": "realme",
@@ -9,23 +10,19 @@
     "charging": false,
     "sim": "No SIM"
   },
-  "lastSeen": "2026-07-19T20:00:40.664Z",
-  "connectedAt": "2026-07-19T19:58:05.040Z",
+  "connectedAt": "2026-07-19T20:00:48.170Z",
+  "lastSeen": "2026-07-19T20:00:48.170Z",
+  "ownerUid": "IJO9WB41A8W4ZUVN",
   "status": {
     "flashlight": false,
     "cameraActive": false,
     "videoPlaying": false,
-    "wallpaperSet": true,
+    "wallpaperSet": false,
     "locked": false,
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default",
-    "protectionEnabled": true,
-    "protection": true,
-    "openApp": "com.android.chrome",
-    "screenSharing": false
+    "activeTheme": "default"
   },
-  "ownerUid": "IJO9WB41A8W4ZUVN",
-  "online": false
+  "online": true
 }
