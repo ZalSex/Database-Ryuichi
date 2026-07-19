@@ -5,22 +5,25 @@
     "sdk": 30,
     "manufacturer": "realme",
     "model": "RMX2180",
-    "battery": 68,
+    "battery": 67,
     "charging": false,
     "sim": "No SIM"
   },
-  "lastSeen": "2026-07-19T11:12:25.271Z",
-  "connectedAt": "2026-07-19T11:12:16.186Z",
+  "lastSeen": "2026-07-19T11:18:00.975Z",
+  "connectedAt": "2026-07-19T11:12:26.105Z",
   "status": {
     "flashlight": false,
     "cameraActive": false,
     "videoPlaying": false,
-    "wallpaperSet": false,
+    "wallpaperSet": true,
     "locked": false,
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "protectionEnabled": true,
+    "protection": true,
+    "screenText": false
   },
   "ownerUid": "IJO9WB41A8W4ZUVN",
   "online": false
