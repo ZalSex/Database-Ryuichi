@@ -1,16 +1,18 @@
 {
   "id": "xyz-7e2e7dc54c702fa0",
   "name": "Samsung SM-A566B",
+  "socketId": "SUrEHALFv9SBNKYAAAkv",
   "info": {
     "sdk": 35,
     "manufacturer": "samsung",
     "model": "SM-A566B",
-    "battery": 17,
+    "battery": 14,
     "charging": false,
     "sim": "INDOSATOOREDOO"
   },
-  "lastSeen": "2026-07-20T07:34:34.637Z",
-  "connectedAt": "2026-07-20T02:13:55.730Z",
+  "connectedAt": "2026-07-20T08:04:15.167Z",
+  "lastSeen": "2026-07-20T08:04:15.167Z",
+  "ownerUid": "LCSAKSY33EI3DXT0",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -20,11 +22,7 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default",
-    "protectionEnabled": true,
-    "protection": true,
-    "brightness": 100
+    "activeTheme": "default"
   },
-  "ownerUid": "LCSAKSY33EI3DXT0",
-  "online": false
+  "online": true
 }
