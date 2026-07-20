@@ -1,17 +1,17 @@
 {
   "id": "xyz-f592fa3b861e7563",
   "name": "Realme RMX3830",
-  "socketId": "aYFLeBd_dw8g6k-RAAAZ",
+  "socketId": "miAb2bzCMJBmdRe8AABF",
   "info": {
     "sdk": 35,
     "manufacturer": "realme",
     "model": "RMX3830",
-    "battery": 30,
+    "battery": 29,
     "charging": false,
     "sim": "Telkomsel"
   },
-  "connectedAt": "2026-07-20T10:11:25.645Z",
-  "lastSeen": "2026-07-20T10:11:25.645Z",
+  "connectedAt": "2026-07-20T10:21:48.212Z",
+  "lastSeen": "2026-07-20T10:21:48.212Z",
   "ownerUid": "YDFMJABLCZUL218K",
   "status": {
     "flashlight": false,
