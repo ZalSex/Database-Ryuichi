@@ -5,12 +5,12 @@
     "sdk": 35,
     "manufacturer": "OPPO",
     "model": "CPH2579",
-    "battery": 93,
+    "battery": 92,
     "charging": false,
     "sim": "Telkomsel"
   },
-  "lastSeen": "2026-07-20T14:04:52.426Z",
-  "connectedAt": "2026-07-20T14:03:07.002Z",
+  "lastSeen": "2026-07-20T14:08:58.618Z",
+  "connectedAt": "2026-07-20T14:04:56.586Z",
   "status": {
     "flashlight": false,
     "cameraActive": false,
