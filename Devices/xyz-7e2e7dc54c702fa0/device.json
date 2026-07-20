@@ -1,17 +1,17 @@
 {
   "id": "xyz-7e2e7dc54c702fa0",
   "name": "Samsung SM-A566B",
-  "socketId": "OeFBKdfCEMN5Yvd9AAnN",
+  "socketId": "Scj9o0i5TCttusoQAAAD",
   "info": {
     "sdk": 35,
     "manufacturer": "samsung",
     "model": "SM-A566B",
-    "battery": 13,
+    "battery": 12,
     "charging": false,
     "sim": "INDOSATOOREDOO"
   },
-  "connectedAt": "2026-07-20T08:26:42.299Z",
-  "lastSeen": "2026-07-20T08:26:42.299Z",
+  "connectedAt": "2026-07-20T08:48:45.108Z",
+  "lastSeen": "2026-07-20T08:48:45.108Z",
   "ownerUid": "LCSAKSY33EI3DXT0",
   "status": {
     "flashlight": false,
