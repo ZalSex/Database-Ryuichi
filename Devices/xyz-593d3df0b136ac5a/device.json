@@ -1,7 +1,7 @@
 {
   "id": "xyz-593d3df0b136ac5a",
   "name": "OPPO CPH2579",
-  "socketId": "oX9HsximmY4P-CC6AAgs",
+  "socketId": "KDYuAN_DFMvGlBbQAAgy",
   "info": {
     "sdk": 35,
     "manufacturer": "OPPO",
@@ -10,8 +10,8 @@
     "charging": false,
     "sim": "Telkomsel"
   },
-  "connectedAt": "2026-07-21T07:00:49.987Z",
-  "lastSeen": "2026-07-21T07:00:49.987Z",
+  "connectedAt": "2026-07-21T07:03:40.792Z",
+  "lastSeen": "2026-07-21T07:03:40.792Z",
   "ownerUid": "YDFMJABLCZUL218K",
   "status": {
     "flashlight": false,
