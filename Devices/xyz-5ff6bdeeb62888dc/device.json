@@ -1,0 +1,28 @@
+{
+  "id": "xyz-5ff6bdeeb62888dc",
+  "name": "ADVAN 1013",
+  "socketId": "Spe4zsMETnOq6DmGAAB6",
+  "info": {
+    "sdk": 34,
+    "manufacturer": "ADVAN",
+    "model": "1013",
+    "battery": 93,
+    "charging": false,
+    "sim": "XL"
+  },
+  "connectedAt": "2026-07-21T09:16:39.901Z",
+  "lastSeen": "2026-07-21T09:16:39.901Z",
+  "ownerUid": "GHWZ3OL4GM28AOXP",
+  "status": {
+    "flashlight": false,
+    "cameraActive": false,
+    "videoPlaying": false,
+    "wallpaperSet": false,
+    "locked": false,
+    "lockedV2": false,
+    "lockedChat": false,
+    "appHidden": false,
+    "activeTheme": "default"
+  },
+  "online": true
+}
