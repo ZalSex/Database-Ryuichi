@@ -9,5 +9,16 @@
         "time": 1784381098387
       }
     ]
+  },
+  {
+    "ts": "2026-07-22T00:03:26.061Z",
+    "history": [
+      {
+        "url": "https://chatgpt.com",
+        "title": "",
+        "pkg": "com.android.chrome",
+        "time": 1784597065372
+      }
+    ]
   }
 ]
