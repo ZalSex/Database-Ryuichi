@@ -1,18 +1,16 @@
 {
   "id": "xyz-0ecc21edfd763308",
   "name": "Infinix X6882",
-  "socketId": "mhHW3VOXaBbcN8PAAALI",
   "info": {
     "sdk": 34,
     "manufacturer": "INFINIX",
     "model": "Infinix X6882",
-    "battery": 78,
+    "battery": 72,
     "charging": false,
     "sim": "XL"
   },
+  "lastSeen": "2026-07-22T21:24:22.857Z",
   "connectedAt": "2026-07-22T21:00:06.893Z",
-  "lastSeen": "2026-07-22T21:00:06.893Z",
-  "ownerUid": "GHWZ3OL4GM28AOXP",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -24,5 +22,6 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "online": true
+  "ownerUid": "GHWZ3OL4GM28AOXP",
+  "online": false
 }
