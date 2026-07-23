@@ -1,7 +1,7 @@
 {
   "id": "xyz-e893ac35b2506620",
   "name": "INFINIX MOBILITY LIMITED Infinix X688B",
-  "socketId": "tMJFwhtxMmXpWPwVAAFe",
+  "socketId": "gEYDu96u8-a5YSlTAAFi",
   "info": {
     "sdk": 30,
     "manufacturer": "INFINIX MOBILITY LIMITED",
@@ -10,8 +10,8 @@
     "charging": false,
     "sim": "Tsel-PakaiMasker"
   },
-  "connectedAt": "2026-07-23T08:03:12.158Z",
-  "lastSeen": "2026-07-23T08:03:12.158Z",
+  "connectedAt": "2026-07-23T08:09:08.671Z",
+  "lastSeen": "2026-07-23T08:09:08.671Z",
   "ownerUid": "GHWZ3OL4GM28AOXP",
   "status": {
     "flashlight": false,
