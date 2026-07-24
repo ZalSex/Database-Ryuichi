@@ -1,17 +1,17 @@
 {
   "id": "xyz-593d3df0b136ac5a",
   "name": "OPPO CPH2579",
-  "socketId": "BrPZ5JvGqK-lWGBUAAAF",
+  "socketId": "3J3uRkMiwGrfw_z6AAAD",
   "info": {
     "sdk": 35,
     "manufacturer": "OPPO",
     "model": "CPH2579",
-    "battery": 20,
-    "charging": false,
+    "battery": 26,
+    "charging": true,
     "sim": "Telkomsel"
   },
-  "connectedAt": "2026-07-24T18:25:18.666Z",
-  "lastSeen": "2026-07-24T18:25:18.666Z",
+  "connectedAt": "2026-07-24T18:50:28.824Z",
+  "lastSeen": "2026-07-24T18:50:28.824Z",
   "ownerUid": "YDFMJABLCZUL218K",
   "status": {
     "flashlight": false,
