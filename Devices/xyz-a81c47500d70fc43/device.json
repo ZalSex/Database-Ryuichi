@@ -1,18 +1,16 @@
 {
   "id": "xyz-a81c47500d70fc43",
   "name": "Xiaomi M2103K19G",
-  "socketId": "siuULA4UhLBJSjj7AAAB",
   "info": {
     "sdk": 33,
     "manufacturer": "Xiaomi",
     "model": "M2103K19G",
-    "battery": 61,
+    "battery": 58,
     "charging": false,
     "sim": "XL"
   },
+  "lastSeen": "2026-07-24T15:50:35.718Z",
   "connectedAt": "2026-07-24T15:40:51.874Z",
-  "lastSeen": "2026-07-24T15:40:51.874Z",
-  "ownerUid": "NXC6KFR88CZ4FJCZ",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -24,5 +22,6 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "online": true
+  "ownerUid": "NXC6KFR88CZ4FJCZ",
+  "online": false
 }
