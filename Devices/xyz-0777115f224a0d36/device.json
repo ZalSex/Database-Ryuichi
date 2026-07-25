@@ -1,28 +1,33 @@
 {
   "id": "xyz-0777115f224a0d36",
   "name": "OPPO CPH2773",
-  "socketId": "ZqKb4wbAw0hODm0gAABJ",
   "info": {
     "sdk": 34,
     "manufacturer": "OPPO",
     "model": "CPH2773",
-    "battery": 62,
+    "battery": 60,
     "charging": false,
     "sim": "TELKOMSEL"
   },
+  "lastSeen": "2026-07-25T14:12:15.160Z",
   "connectedAt": "2026-07-25T14:02:03.185Z",
-  "lastSeen": "2026-07-25T14:02:03.185Z",
-  "ownerUid": "KF83QGFC73GJ52FX",
   "status": {
     "flashlight": false,
     "cameraActive": false,
     "videoPlaying": false,
-    "wallpaperSet": false,
+    "wallpaperSet": true,
     "locked": false,
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "protectionEnabled": false,
+    "protection": false,
+    "sos": false,
+    "brightness": 98,
+    "screenText": false,
+    "spamDialog": false
   },
-  "online": true
+  "ownerUid": "KF83QGFC73GJ52FX",
+  "online": false
 }
