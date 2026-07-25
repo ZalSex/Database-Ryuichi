@@ -1,0 +1,26 @@
+[
+  {
+    "name": "WhatsApp",
+    "type": "com.whatsapp"
+  },
+  {
+    "name": "armainsegah@gmail.com",
+    "type": "com.google"
+  },
+  {
+    "name": "wahyuufarm@gmail.com",
+    "type": "com.google"
+  },
+  {
+    "name": "Meet",
+    "type": "com.google.android.apps.tachyon"
+  },
+  {
+    "name": "Facebook",
+    "type": "com.facebook.auth.login"
+  },
+  {
+    "name": "61591607732962",
+    "type": "com.facebook.auth.login"
+  }
+]
