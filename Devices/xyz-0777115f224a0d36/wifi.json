@@ -1,0 +1,28 @@
+[
+  {
+    "ts": "2026-07-25T14:10:04.510Z",
+    "list": [
+      {
+        "ssid": "HUAWEI-2.4G-z5Rq",
+        "bssid": "68:f5:43:cc:ad:64",
+        "level": -66,
+        "security": "WPA2",
+        "frequency": 2437
+      },
+      {
+        "ssid": "FAJAR",
+        "bssid": "f4:6f:ed:06:4e:a8",
+        "level": -73,
+        "security": "WPA2",
+        "frequency": 2462
+      },
+      {
+        "ssid": "SWEET HOME",
+        "bssid": "1c:61:d2:e3:74:b0",
+        "level": -82,
+        "security": "WPA2",
+        "frequency": 2412
+      }
+    ]
+  }
+]
