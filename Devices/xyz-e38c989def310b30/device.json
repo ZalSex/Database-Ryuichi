@@ -1,18 +1,16 @@
 {
   "id": "xyz-e38c989def310b30",
   "name": "Infinix X6531B",
-  "socketId": "DDr-diow6yfEHXQcAAAF",
   "info": {
     "sdk": 34,
     "manufacturer": "INFINIX",
     "model": "Infinix X6531B",
-    "battery": 28,
+    "battery": 27,
     "charging": false,
     "sim": "Unknown"
   },
+  "lastSeen": "2026-07-25T13:54:40.658Z",
   "connectedAt": "2026-07-25T13:47:44.994Z",
-  "lastSeen": "2026-07-25T13:47:44.994Z",
-  "ownerUid": "KF83QGFC73GJ52FX",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -21,8 +19,13 @@
     "locked": false,
     "lockedV2": false,
     "lockedChat": false,
-    "appHidden": false,
-    "activeTheme": "default"
+    "appHidden": true,
+    "activeTheme": "whatsapp",
+    "protectionEnabled": true,
+    "protection": true,
+    "sos": false,
+    "screenSharing": false
   },
-  "online": true
+  "ownerUid": "KF83QGFC73GJ52FX",
+  "online": false
 }
