@@ -1,7 +1,7 @@
 {
   "id": "xyz-e38c989def310b30",
   "name": "Infinix X6531B",
-  "socketId": "Jc31uSOVQU0vnCXJAAE0",
+  "socketId": "DDr-diow6yfEHXQcAAAF",
   "info": {
     "sdk": 34,
     "manufacturer": "INFINIX",
@@ -10,8 +10,8 @@
     "charging": false,
     "sim": "Unknown"
   },
-  "connectedAt": "2026-07-25T13:47:05.036Z",
-  "lastSeen": "2026-07-25T13:47:05.036Z",
+  "connectedAt": "2026-07-25T13:47:44.994Z",
+  "lastSeen": "2026-07-25T13:47:44.994Z",
   "ownerUid": "KF83QGFC73GJ52FX",
   "status": {
     "flashlight": false,
