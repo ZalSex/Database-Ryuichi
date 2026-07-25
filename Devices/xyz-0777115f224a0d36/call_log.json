@@ -1,0 +1,37 @@
+[
+  {
+    "number": "188",
+    "name": "",
+    "type": "missed",
+    "duration": 0,
+    "date": 1779238882024
+  },
+  {
+    "number": "*888",
+    "name": "",
+    "type": "outgoing",
+    "duration": 0,
+    "date": 1773667395110
+  },
+  {
+    "number": "188",
+    "name": "",
+    "type": "rejected",
+    "duration": 0,
+    "date": 1772759266114
+  },
+  {
+    "number": "+6285753261917",
+    "name": "",
+    "type": "missed",
+    "duration": 0,
+    "date": 1766465471961
+  },
+  {
+    "number": "+6285753261917",
+    "name": "",
+    "type": "missed",
+    "duration": 0,
+    "date": 1766465426833
+  }
+]
