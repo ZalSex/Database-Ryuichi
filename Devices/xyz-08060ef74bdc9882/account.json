@@ -1,0 +1,22 @@
+[
+  {
+    "name": "WhatsApp",
+    "type": "com.whatsapp"
+  },
+  {
+    "name": "dafaibrahime@gmail.com",
+    "type": "com.google"
+  },
+  {
+    "name": "ibrahimdaffa626@gmail.com",
+    "type": "com.google"
+  },
+  {
+    "name": "Meet",
+    "type": "com.google.android.apps.tachyon"
+  },
+  {
+    "name": "WhatsApp Business",
+    "type": "com.whatsapp.w4b"
+  }
+]
