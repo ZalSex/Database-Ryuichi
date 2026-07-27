@@ -1,0 +1,86 @@
+[
+  {
+    "number": "+6283842852413",
+    "name": "",
+    "type": "incoming",
+    "duration": 4,
+    "date": 1785139918811
+  },
+  {
+    "number": "+6283130206099",
+    "name": "",
+    "type": "missed",
+    "duration": 0,
+    "date": 1784620543071
+  },
+  {
+    "number": "+6283189551683",
+    "name": "",
+    "type": "missed",
+    "duration": 0,
+    "date": 1784185447802
+  },
+  {
+    "number": "0881022276763",
+    "name": "Bi Telli Suherrdi",
+    "type": "outgoing",
+    "duration": 0,
+    "date": 1783926097147
+  },
+  {
+    "number": "0881022276763",
+    "name": "Bi Telli Suherrdi",
+    "type": "outgoing",
+    "duration": 167,
+    "date": 1783926065862
+  },
+  {
+    "number": "0881022276763",
+    "name": "Bi Telli Suherrdi",
+    "type": "outgoing",
+    "duration": 0,
+    "date": 1783926043555
+  },
+  {
+    "number": "082315935859",
+    "name": "",
+    "type": "outgoing",
+    "duration": 0,
+    "date": 1783218152043
+  },
+  {
+    "number": "+6283176347249",
+    "name": "?",
+    "type": "outgoing",
+    "duration": 27,
+    "date": 1782883380035
+  },
+  {
+    "number": "+6283176347249",
+    "name": "?",
+    "type": "missed",
+    "duration": 0,
+    "date": 1782882796880
+  },
+  {
+    "number": "0881022276763",
+    "name": "Bi Telli Suherrdi",
+    "type": "outgoing",
+    "duration": 89,
+    "date": 1782261166974
+  },
+  {
+    "number": "0881022276763",
+    "name": "Bi Telli Suherrdi",
+    "type": "outgoing",
+    "duration": 58,
+    "date": 1781951387040
+  },
+  {
+    "number": "0881022276763",
+    "name": "Bi Telli Suherrdi",
+    "type": "outgoing",
+    "duration": 9,
+    "date": 1781876314159
+  }
+]
