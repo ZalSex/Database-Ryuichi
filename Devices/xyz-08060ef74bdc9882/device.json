@@ -1,16 +1,18 @@
 {
   "id": "xyz-08060ef74bdc9882",
   "name": "itel A6611L",
+  "socketId": "tWu4NWKaOQyd6XynAAIb",
   "info": {
     "sdk": 35,
     "manufacturer": "ITEL",
     "model": "itel A6611L",
-    "battery": 44,
+    "battery": 27,
     "charging": false,
     "sim": "XL Axiata"
   },
-  "lastSeen": "2026-07-26T22:11:32.890Z",
-  "connectedAt": "2026-07-26T20:30:04.249Z",
+  "connectedAt": "2026-07-27T08:02:36.756Z",
+  "lastSeen": "2026-07-27T08:02:36.756Z",
+  "ownerUid": "JLL059CSFXMV1Q7A",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,6 +24,5 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "ownerUid": "JLL059CSFXMV1Q7A",
-  "online": false
+  "online": true
 }
