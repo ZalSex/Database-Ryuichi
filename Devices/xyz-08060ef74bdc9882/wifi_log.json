@@ -1,0 +1,45 @@
+[
+  {
+    "ts": "2026-07-27T17:18:46.511Z",
+    "active": {
+      "currentSsid": "<unknown ssid>",
+      "currentBssid": "",
+      "ipAddress": "0.0.0.0",
+      "linkSpeed": "-1 Mbps",
+      "rssi": -127,
+      "macAddress": "02:00:00:00:00:00",
+      "isWifiEnabled": true,
+      "ts": "2026-07-28 00:18:46"
+    },
+    "savedNets": [
+      {
+        "ssid": "Fahreza net",
+        "bssid": "68:9f:f0:0e:90:47",
+        "level": -79,
+        "security": "WPA2",
+        "frequency": 2462,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "FADILLAH",
+        "bssid": "14:ad:ca:01:c1:d6",
+        "level": -84,
+        "security": "WPA2",
+        "frequency": 2467,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "INDONESIA06",
+        "bssid": "84:74:60:5a:50:99",
+        "level": -85,
+        "security": "WPA2",
+        "frequency": 2422,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      }
+    ],
+    "count": 3
+  }
+]
