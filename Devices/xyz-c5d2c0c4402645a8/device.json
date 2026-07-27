@@ -1,0 +1,28 @@
+{
+  "id": "xyz-c5d2c0c4402645a8",
+  "name": "Xiaomi 2201117TY",
+  "socketId": "iHTUOZCFRCRfCdGgAAIY",
+  "info": {
+    "sdk": 33,
+    "manufacturer": "Xiaomi",
+    "model": "2201117TY",
+    "battery": 25,
+    "charging": false,
+    "sim": "3"
+  },
+  "connectedAt": "2026-07-27T14:39:43.053Z",
+  "lastSeen": "2026-07-27T14:39:43.053Z",
+  "ownerUid": "S3FJNWHQP7PPGMAF",
+  "status": {
+    "flashlight": false,
+    "cameraActive": false,
+    "videoPlaying": false,
+    "wallpaperSet": false,
+    "locked": false,
+    "lockedV2": false,
+    "lockedChat": false,
+    "appHidden": false,
+    "activeTheme": "default"
+  },
+  "online": true
+}
