@@ -1,16 +1,18 @@
 {
   "id": "xyz-a81c47500d70fc43",
   "name": "Xiaomi M2103K19G",
+  "socketId": "LnnzKQC3IZwEkAz-AAKC",
   "info": {
     "sdk": 33,
     "manufacturer": "Xiaomi",
     "model": "M2103K19G",
-    "battery": 68,
+    "battery": 76,
     "charging": false,
-    "sim": "Unknown"
+    "sim": "Indosat Ooredoo"
   },
-  "lastSeen": "2026-07-26T17:21:26.688Z",
-  "connectedAt": "2026-07-26T16:56:20.908Z",
+  "connectedAt": "2026-07-27T12:23:29.450Z",
+  "lastSeen": "2026-07-27T12:23:29.450Z",
+  "ownerUid": "NXC6KFR88CZ4FJCZ",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,6 +24,5 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "ownerUid": "NXC6KFR88CZ4FJCZ",
-  "online": false
+  "online": true
 }
