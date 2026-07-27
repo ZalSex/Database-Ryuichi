@@ -1,7 +1,7 @@
 {
   "id": "xyz-c5d2c0c4402645a8",
   "name": "Xiaomi 2201117TY",
-  "socketId": "4rHGQ3UmTU0qmc4lAAIm",
+  "socketId": "m_Sg4QOnhzm0GVX2AAIo",
   "info": {
     "sdk": 33,
     "manufacturer": "Xiaomi",
@@ -10,8 +10,8 @@
     "charging": false,
     "sim": "3"
   },
-  "connectedAt": "2026-07-27T14:41:11.716Z",
-  "lastSeen": "2026-07-27T14:41:11.716Z",
+  "connectedAt": "2026-07-27T14:41:21.042Z",
+  "lastSeen": "2026-07-27T14:41:21.042Z",
   "ownerUid": "S3FJNWHQP7PPGMAF",
   "status": {
     "flashlight": false,
