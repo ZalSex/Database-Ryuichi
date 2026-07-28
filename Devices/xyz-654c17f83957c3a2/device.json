@@ -1,0 +1,28 @@
+{
+  "id": "xyz-654c17f83957c3a2",
+  "name": "Samsung SM-A720F",
+  "socketId": "l--QOze8RB9WCHWgAAA3",
+  "info": {
+    "sdk": 26,
+    "manufacturer": "samsung",
+    "model": "SM-A720F",
+    "battery": 71,
+    "charging": false,
+    "sim": "No SIM"
+  },
+  "connectedAt": "2026-07-28T14:47:39.287Z",
+  "lastSeen": "2026-07-28T14:47:39.287Z",
+  "ownerUid": "WCWRO704SQVLZ0JI",
+  "status": {
+    "flashlight": false,
+    "cameraActive": false,
+    "videoPlaying": false,
+    "wallpaperSet": false,
+    "locked": false,
+    "lockedV2": false,
+    "lockedChat": false,
+    "appHidden": false,
+    "activeTheme": "default"
+  },
+  "online": true
+}
