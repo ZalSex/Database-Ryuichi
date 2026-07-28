@@ -1,7 +1,7 @@
 {
   "id": "xyz-09ec0d12fe734ffa",
   "name": "OPPO CPH2269",
-  "socketId": "yEWXZxdIvtLa36PDAATa",
+  "socketId": "o8XW0S6mw2yRdRmhAATc",
   "info": {
     "sdk": 30,
     "manufacturer": "OPPO",
@@ -10,8 +10,8 @@
     "charging": false,
     "sim": "INDOSATOOREDOO"
   },
-  "connectedAt": "2026-07-28T04:36:01.531Z",
-  "lastSeen": "2026-07-28T04:36:01.531Z",
+  "connectedAt": "2026-07-28T04:36:11.561Z",
+  "lastSeen": "2026-07-28T04:36:11.561Z",
   "ownerUid": "HSKN4ME3R9E54T93",
   "status": {
     "flashlight": false,
