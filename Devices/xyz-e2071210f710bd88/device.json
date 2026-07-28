@@ -1,16 +1,18 @@
 {
   "id": "xyz-e2071210f710bd88",
   "name": "Realme RMX2180",
+  "socketId": "XWHXUbKuNWCMsE4CAAOc",
   "info": {
     "sdk": 30,
     "manufacturer": "realme",
     "model": "RMX2180",
-    "battery": 16,
-    "charging": true,
-    "sim": "No SIM"
+    "battery": 11,
+    "charging": false,
+    "sim": "Telkomsel"
   },
-  "lastSeen": "2026-07-28T23:13:50.177Z",
-  "connectedAt": "2026-07-28T23:13:22.554Z",
+  "connectedAt": "2026-07-28T23:14:00.656Z",
+  "lastSeen": "2026-07-28T23:14:00.656Z",
+  "ownerUid": "B74L8SRK99H277VT",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,6 +24,5 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "ownerUid": "IJO9WB41A8W4ZUVN",
-  "online": false
+  "online": true
 }
