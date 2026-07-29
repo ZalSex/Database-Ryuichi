@@ -1,7 +1,7 @@
 {
   "id": "xyz-e2071210f710bd88",
   "name": "Realme RMX2180",
-  "socketId": "MYGW5PfQKIbr3mOnAAIy",
+  "socketId": "i4X5WLWVwsrqarubAAI0",
   "info": {
     "sdk": 30,
     "manufacturer": "realme",
@@ -10,8 +10,8 @@
     "charging": false,
     "sim": "No SIM"
   },
-  "connectedAt": "2026-07-29T11:30:58.370Z",
-  "lastSeen": "2026-07-29T11:30:58.370Z",
+  "connectedAt": "2026-07-29T11:31:02.413Z",
+  "lastSeen": "2026-07-29T11:31:02.413Z",
   "ownerUid": "IJO9WB41A8W4ZUVN",
   "status": {
     "flashlight": false,
