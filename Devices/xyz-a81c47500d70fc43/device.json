@@ -5,12 +5,12 @@
     "sdk": 33,
     "manufacturer": "Xiaomi",
     "model": "M2103K19G",
-    "battery": 77,
+    "battery": 76,
     "charging": false,
     "sim": "Unknown"
   },
-  "lastSeen": "2026-07-30T16:36:17.195Z",
-  "connectedAt": "2026-07-30T15:48:17.903Z",
+  "lastSeen": "2026-07-30T17:03:12.413Z",
+  "connectedAt": "2026-07-30T16:38:10.019Z",
   "status": {
     "flashlight": false,
     "cameraActive": false,
