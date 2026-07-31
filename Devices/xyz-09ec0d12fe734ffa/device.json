@@ -1,18 +1,16 @@
 {
   "id": "xyz-09ec0d12fe734ffa",
   "name": "OPPO CPH2269",
-  "socketId": "bVA135yTgv3LVyJgAANG",
   "info": {
     "sdk": 30,
     "manufacturer": "OPPO",
     "model": "CPH2269",
-    "battery": 82,
+    "battery": 33,
     "charging": false,
-    "sim": "Unknown"
+    "sim": "INDOSATOOREDOO"
   },
-  "connectedAt": "2026-07-31T11:09:44.070Z",
-  "lastSeen": "2026-07-31T11:09:44.070Z",
-  "ownerUid": "OXRLD6TOV8MEZH7E",
+  "lastSeen": "2026-07-31T11:10:02.728Z",
+  "connectedAt": "2026-07-31T11:09:44.497Z",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -24,5 +22,6 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "online": true
+  "ownerUid": "HSKN4ME3R9E54T93",
+  "online": false
 }
