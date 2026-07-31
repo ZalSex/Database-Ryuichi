@@ -5,12 +5,12 @@
     "sdk": 35,
     "manufacturer": "realme",
     "model": "RMX3830",
-    "battery": 98,
+    "battery": 94,
     "charging": false,
     "sim": "Telkomsel"
   },
-  "lastSeen": "2026-07-31T18:52:48.334Z",
-  "connectedAt": "2026-07-31T18:44:54.489Z",
+  "lastSeen": "2026-07-31T23:21:04.033Z",
+  "connectedAt": "2026-07-31T23:14:54.995Z",
   "status": {
     "flashlight": false,
     "cameraActive": false,
