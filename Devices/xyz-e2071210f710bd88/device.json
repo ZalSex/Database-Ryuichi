@@ -5,12 +5,12 @@
     "sdk": 30,
     "manufacturer": "realme",
     "model": "RMX2180",
-    "battery": 75,
+    "battery": 74,
     "charging": false,
     "sim": "No SIM"
   },
-  "lastSeen": "2026-08-01T10:42:20.375Z",
-  "connectedAt": "2026-08-01T10:42:02.446Z",
+  "lastSeen": "2026-08-01T10:42:51.152Z",
+  "connectedAt": "2026-08-01T10:42:42.570Z",
   "status": {
     "flashlight": false,
     "cameraActive": false,
