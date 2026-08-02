@@ -5,12 +5,12 @@
     "sdk": 30,
     "manufacturer": "OPPO",
     "model": "CPH2269",
-    "battery": 82,
+    "battery": 81,
     "charging": false,
     "sim": "INDOSATOOREDOO"
   },
-  "lastSeen": "2026-08-02T10:43:04.424Z",
-  "connectedAt": "2026-08-02T10:42:55.894Z",
+  "lastSeen": "2026-08-02T10:43:34.659Z",
+  "connectedAt": "2026-08-02T10:43:05.900Z",
   "status": {
     "flashlight": false,
     "cameraActive": false,
